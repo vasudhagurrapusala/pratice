@@ -1,0 +1,15 @@
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.AssemblyInfoInputs.cache
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.AssemblyInfo.cs
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.csproj.CoreCompileInputs.cache
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.sourcelink.json
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\bin\Debug\net10.0\day4pratice.exe
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\bin\Debug\net10.0\day4pratice.deps.json
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\bin\Debug\net10.0\day4pratice.runtimeconfig.json
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\bin\Debug\net10.0\day4pratice.dll
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\bin\Debug\net10.0\day4pratice.pdb
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.dll
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\refint\day4pratice.dll
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.pdb
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\day4pratice.genruntimeconfig.cache
+C:\Users\VasudhaGurrapusala\Desktop\pratice programs\day4pratice\obj\Debug\net10.0\ref\day4pratice.dll
